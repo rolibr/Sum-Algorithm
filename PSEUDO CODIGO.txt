@@ -1,0 +1,10 @@
+Algoritmo Soma;
+
+Variaveis a,b soma:inteiro;
+Inicio
+   Escrever("Introduza um numero inteiro")
+   Ler (a);
+   Escrever ("Introduza outro numero inteiro:");
+   Soma <- a + b ;
+   Escrever (" o resultado da soma",a," + ",b," = " ,soma);
+Fim.
